@@ -33,7 +33,7 @@ To build an accurate image classification model using transfer learning and prov
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 - Python
 - TensorFlow / Keras
 - Streamlit
@@ -48,7 +48,7 @@ To build an accurate image classification model using transfer learning and prov
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 - `skin_disease.ipynb` → Model training
 - `main.py` → Streamlit web application
 - `requirements.txt` → Required libraries
